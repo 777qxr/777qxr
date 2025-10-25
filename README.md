@@ -10,7 +10,7 @@ I’m currently working on SevnCore - All in one Minecraft Plugin.<br>I’m curr
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=777qxr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=777qxr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=777qxr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<image-card alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" ></image-card>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=777qxr&icon=2&color=1)](https://visitcount.itsvg.in)
