@@ -54,8 +54,13 @@
         </tr>
       </table>
     </td>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777qxr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <td valign="top" align="center" width="250">
+      <strong>🏆 Most Used Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/1.%20Java-45%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/2.%20JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/><br/>
+      <img src="https://img.shields.io/badge/3.%20TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/4.%20Python-7%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/5.%20HTML%2FCSS-3%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
   </tr>
 </table>
