@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm 777qxr</h1>
-<h3 align="center">Take some time to read through the information below</h3>
+<h3 align="center">Full-stack developer with 4+ years of experience in Minecraft plugin development and server management, specializing in scalable backend systems, high-performance plugins, and reliable infrastructure. I focus on clean code, performance, and practical solutions that work.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=777qxr&label=Profile%20views&color=0e75b6&style=flat" alt="777qxr" /> </p>
 
-- I'm currently working on [Allay Hub](https://discord.gg/mPVdATpEEN)
+- I'm currently working on [StatixLabs](https://statixlabs.site/)
 - I'm looking for Staff Team [Allay Hub](https://discord.gg/mPVdATpEEN)
 - Reach me via **777qxrdev@gmail.com**
 
