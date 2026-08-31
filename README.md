@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=777qxr&label=Profile%20views&color=0e75b6&style=flat" alt="777qxr" /> </p>
 
 - I'm currently working on [StatixLabs](https://statixlabs.site/)
-- I'm looking for Staff Team [Allay Hub](https://discord.gg/mPVdATpEEN)
+- I'm looking for Staff Team [StatixLabs](https://discord.gg/mPVdATpEEN)
 - Reach me via **777qxrdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
